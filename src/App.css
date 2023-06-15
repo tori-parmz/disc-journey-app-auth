@@ -1,0 +1,115 @@
+.App {
+  
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: 'center';
+  color: rgb(0, 0, 0);
+}
+
+
+#footer {
+  background-color: #FE8429;
+  margin-bottom: -50;
+}
+
+#navbar {
+  background-color: #FE8429;
+}
+
+#off-canvas-menu {
+  background: rgba(250, 163, 96, 0.896);
+  justify-content: center;
+  text-align: center;
+}
+
+#profile-header {
+  background-image: url('../public/Assets/zetong-li-background.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 30%;
+  height: 400px;
+}
+
+#login-page{
+  background-image: url('../public/Assets/zetong-li-background.jpg');
+  min-height: 120vh;
+  background-size: cover;
+  background-position: 20%;
+  justify-content: center;
+
+}
+
+#collection-page{
+  justify-content: center;
+  text-align: center;
+}
+
+#album-info{
+  justify-content: center;
+  text-align: center;
+  max-width: 60%;
+}
+
+#track-list{
+  text-align: left;
+}
+
+#off-canvas-profile{
+  margin-top: 10%;
+}
+
+.profile-photo{
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+.profile-photo-icon{
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000000;
+}
+
+#login-card{
+  margin-top: 5%;
+  margin-bottom: 10%;
+  background-color: rgba(255, 255, 255, 0.663);
+}
+
+#logo-login-page{
+  width: 20rem;
+  margin-top: 1rem;
+}
+
+#logo-about-page{
+  width: 15rem;
+  margin-top: 1rem;
+}
+
+#offcanvas-logo{
+  width: 10rem;
+}
+
+#new-entry-form{
+  display: flex;
+  justify-content: 'center';
+  align-items: 'center';
+}
+
+#cover-art-grid{
+  margin-top: 3%;
+}
+
+#text-wrapping{
+  word-break: break-word;
+}
+
+#tags{
+  margin-right: 1%;
+}
